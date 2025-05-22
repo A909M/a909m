@@ -92,27 +92,5 @@ Here are some ideas to get you started:
 
 ###
 
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/a909m/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="t.me/assemAlwaseai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.facebook.com/share/15w9CWJNzF/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/a.909_m?igsh=dDcxN3Zkc2Z0cWZx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
+![image](https://github.com/A909M/a909m/blob/main/dino.gif)
 ###
