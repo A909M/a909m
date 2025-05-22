@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/a909m/a909m/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
